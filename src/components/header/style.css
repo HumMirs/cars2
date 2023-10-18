@@ -1,0 +1,17 @@
+.info-container {
+  width: 80%;
+  display: flex;
+  border-radius: 50px;
+  margin: 100px auto;
+  padding: 50px;
+  border: 1px solid black;
+}
+
+.info-container img {
+  width: 30%;
+  margin-right: 25px;
+}
+
+.info-container p {
+  text-align: justify;
+}
